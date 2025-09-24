@@ -1,0 +1,5 @@
+{
+  "name": "EPUB to Audiobook Converter",
+  "description": "An application that takes an EPUB file as input and uses the browser's text-to-speech capabilities to generate an audio version of the book's content, complete with playback controls.",
+  "requestFramePermissions": []
+}
